@@ -1,3 +1,5 @@
+## Live Demo
+[View the BMI Calculator](https://bmi-calculator.vercel.app)
 # BMI Calculator
 
 A simple and interactive Body Mass Index (BMI) Calculator built with **React** and **Bootstrap**.  
