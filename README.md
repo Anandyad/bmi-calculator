@@ -23,3 +23,16 @@ This app allows users to enter their **weight (lbs)** and **height (inches)** to
 1. Clone the repository:
    ```bash
    git clone https://github.com/Anandyad/bmi-calculator.git
+Navigate to the project folder:
+
+cd bmi-calculator
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
